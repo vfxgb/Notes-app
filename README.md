@@ -2,8 +2,7 @@
 ## Overview
 This is a simple Android notes application built using Java and the Room persistence library. Users can create new notes, edit existing ones, and delete notes they no longer need.
 
-## Video
-[Click here for video](https://www.youtube.com/watch?v=x28egYdbkf0)
+
 
 ## Features
 Create New Notes: Add a new note with a single click.  
